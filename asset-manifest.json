@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/happy-numbers-test-app/static/css/main.6161b6a6.css",
+    "main.js": "/happy-numbers-test-app/static/js/main.af1b8b7a.js",
+    "index.html": "/happy-numbers-test-app/index.html",
+    "main.6161b6a6.css.map": "/happy-numbers-test-app/static/css/main.6161b6a6.css.map",
+    "main.af1b8b7a.js.map": "/happy-numbers-test-app/static/js/main.af1b8b7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6161b6a6.css",
+    "static/js/main.af1b8b7a.js"
+  ]
+}
